@@ -2,27 +2,7 @@
 
 ## 🛠️ Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 > A fully structured relational database for a modern digital payment platform — supporting wallets, UPI transactions, fraud detection, merchant payments, loans, cashback, and customer support. Built with SQL and designed for Power BI analytics and reporting.
-
----
-
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Power BI Analytics](#-power-bi-analytics)
-- [Database Schema](#-database-schema)
-- [Tables Overview](#-tables-overview)
-- [Key Features](#-key-features)
-- [Getting Started](#-getting-started)
-- [Sample Data](#-sample-data)
-- [Tech Stack](#-tech-stack)
-- [Author](#-author)
 
 ---
 
@@ -225,7 +205,7 @@ Combined table for customer support tickets and user feedback/ratings.
 
 **Step 1 — Clone the repository:**
 ```bash
-git clone https://github.com/Ashishswami99/Nexus_pay.git
+git clone https://github.com/soorajnair2013-byte/Nexus_pay.git
 ```
 
 **Step 2 — Open your MySQL client and run the SQL file:**
